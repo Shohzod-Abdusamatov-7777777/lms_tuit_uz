@@ -146,7 +146,7 @@ const Finals = (props) => {
                   {courses && (sorted ? <FaArrowUp /> : <FaArrowDown />)}
                 </span>
               </th>
-              <th>Amal</th>
+              <th>Amaliy</th>
               <th>Reja</th>
             </tr>
           </thead>
