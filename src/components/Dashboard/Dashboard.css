@@ -1,0 +1,45 @@
+.page-container {
+  position: relative;
+  display: block;
+  width: 100%;
+  margin-top: 81px;
+  padding: 5px 30px 40px 30px;
+  float: right;
+  transition: all 0.3s ease-in-out;
+}
+@media screen and (min-width: 992px) {
+  .page-container {
+    width: calc(100% - 281px);
+  }
+}
+.card {
+  border: 1px solid #ccc;
+}
+.card-text {
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  color: #333;
+}
+/* pagination */
+.pagination {
+  text-decoration: none;
+  padding: 0.3rem 0.7rem;
+  border: 0.5px solid #ccc;
+  background: #fff;
+  color: #007acc;
+  user-select: none;
+}
+
+.pagination:hover {
+  text-decoration: none;
+  background: #007acc;
+  color: #fff;
+}
+.arrow:hover {
+  background: #fff;
+}
+.active {
+  background: #007acc;
+  color: #fff;
+}

@@ -1,14 +1,27 @@
 {
-  "name": "quiz-app-pr-3",
+  "name": "lms-tuit-uz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^8.2.9",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-icons": "^4.2.0",
+    "react-paginate": "^7.1.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
+    "styled-components": "^5.2.1",
     "web-vitals": "^1.0.1"
   },
   "scripts": {

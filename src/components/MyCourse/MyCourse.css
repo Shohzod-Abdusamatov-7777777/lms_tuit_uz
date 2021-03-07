@@ -1,0 +1,14 @@
+.page-title {
+  padding: 20px 10px;
+}
+.page-title > h3 {
+  font-size: 22px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.6);
+  font-family: inherit;
+}
+.form-control {
+  margin-bottom: 0;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid #ccc;
+}

@@ -1,0 +1,18 @@
+table {
+  overflow: scroll;
+}
+table thead {
+  color: #ddd;
+}
+th {
+  padding: 12px 8px;
+  white-space: nowrap;
+}
+td {
+  padding: 12px 8px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+td:first-child {
+  color: #ddd;
+}

@@ -1,0 +1,9 @@
+table thead {
+  color: rgb(46, 44, 44);
+  font-size: 14px;
+}
+td:first-child,
+td {
+  color: rgb(46, 44, 44);
+  white-space: wrap;
+}
